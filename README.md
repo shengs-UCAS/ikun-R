@@ -16,9 +16,9 @@ https://blog.csdn.net/m0_53436190/article/details/121492582
 
 ##  输出
 1. animation 输出gif
-2. 
+
 https://www.rdocumentation.org/packages/animation/versions/2.7/topics/saveGIF
 
 2. av package输出video
-3. 
+
 https://www.rdocumentation.org/packages/av/versions/0.8.2/topics/encoding
