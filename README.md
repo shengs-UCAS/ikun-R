@@ -1,4 +1,10 @@
 # ikun-R
+## introduction
+练习时长两年半🐔🐔
+看到有matlab与python的实现版本，怎么能少了R呢🐔
+
+[视频链接](https://www.bilibili.com/video/BV1sG4y187wy/?spm_id_from=333.999.0.0&vd_source=fd6e75a342072e10d0d9de5e7735495d)
+
 ## ref
 https://github.com/GBL-123/scatter-animation-for-ikun/blob/main/scatter_animation.py
 
